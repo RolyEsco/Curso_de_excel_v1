@@ -1,2 +1,8 @@
 =CONCATENAR(IZQUIERDA(B8;1); IZQUIERDA(C8;1); IZQUIERDA(D8;1);"-";A8)
+
 =CONTAR.SI(G10:J10;"X")
+
+promedio de parciales
+====================
+
+=(SUMA(L11:N11)-MIN(L11:N11))/2
